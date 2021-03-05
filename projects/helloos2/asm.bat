@@ -1,0 +1,1 @@
+D:\30daysOS\tolset\z_tools\nask.exe helloos.nas helloos.img
